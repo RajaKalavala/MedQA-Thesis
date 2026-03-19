@@ -1,1 +1,21 @@
 medqa-data
+
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Config (API keys)
+config/config.py
+
+# OS
+.DS_Store
+
+# Data outputs (large files)
+data/indices/*.bin
+data/indices/*.pkl
+data/indices/*.npy

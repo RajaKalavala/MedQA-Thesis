@@ -1,0 +1,29 @@
+# MedQA Thesis - Direct Dependencies
+# Install with: pip install -r requirements.txt
+# Add packages incrementally as each notebook requires them
+
+# --- Notebook 01: Data Preprocessing & EDA ---
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+tqdm
+python-dotenv
+ipykernel
+
+# --- Notebook 02: Component Experiments (add when needed) ---
+# langchain
+# langchain-community
+# langchain-text-splitters
+# sentence-transformers
+# faiss-cpu
+# rank-bm25
+# chromadb
+# qdrant-client
+# groq
+# ragas
+
+# --- Notebook 09: Explainability (add when needed) ---
+# lime
+# shap
