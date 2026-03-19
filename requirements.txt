@@ -11,6 +11,8 @@ openpyxl
 tqdm
 python-dotenv
 ipykernel
+pyarrow
+nbconvert
 
 # --- Notebook 02: Component Experiments (add when needed) ---
 # langchain
