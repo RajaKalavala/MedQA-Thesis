@@ -11,6 +11,7 @@ __pycache__/
 
 # Config (API keys)
 config/config.py
+.env
 
 # OS
 .DS_Store
